@@ -18,3 +18,5 @@ Bluetooth pairing mode will remain the same and can be initiated by pressing Vol
 AirPlay mode remains the same.
 
 When music is playing via Spotify Connect, Bluetooth or AirPlay, a dial turn will go next or back depending on the direction of the turn. The center button will continue to function as a play/pause button.
+
+After completing these steps, to verify that you have the last firmware version, perform 1-5, and make sure Version says "FRM000104.03.01.0013".
