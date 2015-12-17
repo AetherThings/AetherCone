@@ -13,10 +13,14 @@ To update your Cone's firmware manually, perform the following steps
 9. When upload is finished and firmware is installed you will see a green confirmation screen.
 10. Turn your Cone off and then on again. Once it reboots, the new firmware will be installed.
 
-Bluetooth pairing mode will remain the same and can be initiated by pressing and holding Vol + while the tapping the center button three times.
+To initiate Bluetooth Pairing mode
+
+a. Press and hold volume +
+b. Press and release play/pause three times
+c. On your computer/tablet/phone begin Bluetooth Scan / Pair mode according to its instructions.
 
 AirPlay mode remains the same.
 
 When music is playing via Spotify Connect, Bluetooth or AirPlay, a dial turn will go next or back depending on the direction of the turn. The center button will continue to function as a play/pause button.
 
-After completing these steps, to verify that you have the last firmware version, perform 1-5, and make sure Version says "FRM000104.03.01.0013".
+After completing these steps, to verify that you have the last firmware version, perform stpes 1-5, and make sure Version says "FRM000104.03.01.0013".
