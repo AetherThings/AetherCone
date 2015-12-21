@@ -41,3 +41,21 @@ After completing these steps, to verify that you have the last firmware version,
 
 When music is playing via Spotify Connect, Bluetooth or AirPlay, a dial turn will go next or back depending on the direction of the turn. The center button acts as play/pause.
 
+## Hard Reboot
+
+Use the following hard reboot procedure if turning the power switch off and then on again doesn't resolve your issue. The hard reboot procedure does not wipe any settings.
+
+1. Plug the Cone into a power outlet and make sure the power cord is attached.
+2. Turn the power switch on.
+3. Pres and hold both Vol - and Vol + buttons for ~10 seconds until the lights flash red or white. Let go of the buttons.
+4. Your Cone will now reboot
+
+## Factory Data Reset
+
+Use the following factory data reset procedure to remove all saved settings on the Cone. This includes WiFi and Bluetooth settings.
+
+1. Hold down the Vol - button and turn the dial left and right 7 times.
+2. You will see the lights flash red, amber or white.
+3. Let go of the buttons and turn the device off and then on again.
+4. If the Cone starts up and the lights are flashing a white () pattern, the reset was successful.
+5. Turn the Cone off. All data has been removed from it.
